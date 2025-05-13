@@ -1,4 +1,3 @@
-Aquí tienes todo el contenido listo para ser copiado directamente a un archivo `README.md`, incluyendo código, instrucciones y créditos. Todo está completo en un solo archivo:
 
 ````markdown
 # 📍 MiGPS - Geolocalización con Capacitor + Ionic
