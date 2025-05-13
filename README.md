@@ -125,13 +125,6 @@ Esto abrirá la ubicación directamente en la app de Google Maps desde el navega
 
 ---
 
-## 👨‍💻 Autores
-
-* **Marco** – Desarrollo e integración con Capacitor
-* **Francias** – Despliegue en Android y configuración de permisos
-
----
-
 ## ✅ Estado del proyecto
 
 * [x] Obtención de ubicación
@@ -150,5 +143,3 @@ Esto abrirá la ubicación directamente en la app de Google Maps desde el navega
 
 ```
 
-Este archivo está listo para colocarlo directamente como `README.md` en tu repositorio. ¿Quieres que lo genere como archivo descargable también?
-```
