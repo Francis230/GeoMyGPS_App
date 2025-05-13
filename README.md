@@ -141,5 +141,5 @@ Esto abrirá la ubicación directamente en la app de Google Maps desde el navega
 * Android Studio configurado
 * Dispositivo Android o emulador disponible
 
-```
+
 
