@@ -1,0 +1,7 @@
+{
+  "name": "MiGPS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
