@@ -121,6 +121,7 @@ Esto abrirá la ubicación directamente en la app de Google Maps desde el navega
 
 
 ## 📱 Capturas de pantalla
+![image](https://github.com/user-attachments/assets/548fb0e9-676f-499c-afdc-66f8b3f8654f)
 
 
 
