@@ -119,11 +119,17 @@ Esto abrirá la ubicación directamente en la app de Google Maps desde el navega
 
 ---
 
+
+## 📱 Capturas de pantalla
+
+
+
 ## 📚 Recursos oficiales
 
 * [Permisos de ubicación - Documentación Android](https://developer.android.com/develop/sensors-and-location/location/permissions?hl=es-419)
 
 ---
+
 
 ## ✅ Estado del proyecto
 
